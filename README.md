@@ -12,7 +12,7 @@ Highlight the most affected regions and compare their seismic activity.
 Provide insights to better understand seismic patterns and inform preparedness strategies.
 
 Open Tableau File:
-
+(GlobalQueaks.twb)
 Download and open the provided Tableau workbook (.twbx) file in Tableau Desktop.
 Interact with Visualizations:
 
